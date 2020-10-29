@@ -1,4 +1,4 @@
-# Price Optimimzation Model
+# Pricing Optimization Model
 
 ## Description
 An approach to optimize prices and monetize unused pricing power, the model identifies SKUs and stores to grow margins with price increases.
